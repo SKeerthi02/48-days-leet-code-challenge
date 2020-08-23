@@ -1,7 +1,9 @@
 # 48-days-leet-code-challenge
 
 Topics I plan to read and practice 
-Trees, Recursion, Dynamic Programming, Backtracking, Tries, 
+
+Trees, Recursion, Dynamic Programming, Backtracking, Tries
+
 Started on 20th August 2020 
 
 Day 1 - Recurssion, Backtracking
