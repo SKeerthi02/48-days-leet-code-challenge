@@ -32,7 +32,7 @@ class Solution:
             
             if i < m and nums2[j-1] > nums1[i]:
                 imin = i+1
-            elif i < 0 and nums1[i-1] > nums2[j]:
+            elif i > 0 and nums1[i-1] > nums2[j]:
                 imin = i-1
             else:
                 if i == 0: 
