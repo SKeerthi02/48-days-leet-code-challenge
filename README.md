@@ -12,3 +12,8 @@ Day 3 - trees easy
 Day 4 - trees easy and medium
 Day 5 - trees medium
 Day 6 - trees medium, hard 
+Day 7 - Backtracking
+Day 8 - Arrays, String manipulation 
+Day 9 - string
+Day 10 - Bit Manipulation
+
